@@ -1,6 +1,6 @@
 {
   "name": "aws-cognito-public-keys",
-  "version": "1.0.0",
+  "version": "1.0.0-Beta1",
   "description": "Gets public keys for a given AWS Cognito user pool id",
   "main": "lib/index.js",
   "keywords": [
